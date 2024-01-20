@@ -1,5 +1,1 @@
-#ignore log files
-*.log
-
-#ignore log folder
-log/
+backup*
